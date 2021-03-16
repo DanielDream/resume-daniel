@@ -1,6 +1,6 @@
 ---
 title: Ji Xiang
-role: Master of Software Engineering of Tsinghua University
+role: Master of Software Engineering
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -11,39 +11,32 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    display:
+      header: false
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/daniel-dream
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E7%A5%A5-%E5%90%89-3362a2199/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tsinghua University
+    url: https://www.tsinghua.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: MEng in Software Engineering
+      institution: Tsinghua University
+      year: 2016
+    - course: BSc in Geographic Information System
+      institution: Suzhou University of Science and Technology
+      year: 2010
+email: 414366078@qq.com
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ji Xiang is a master of software engineering at the Tsinghua HPC Lab. His research interests include Nocs, HPC and Routing Algorithms. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
