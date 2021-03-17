@@ -1,7 +1,7 @@
 ---
 title: Ji Xiang
 role: Master of Software Engineering
-avatar_filename: 微信图片_20210317104842.jpg
+avatar_filename: avatar1.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
