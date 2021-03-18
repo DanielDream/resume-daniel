@@ -12,11 +12,11 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: Chinese website title...
+  title: 吉祥
   params:
-    description: Site description in Chinese...
+    description: 吉祥的个人简历
   menu:
     main:
-      - name: 传
+      - name: 关于
         url: '#about'
         weight: 1
