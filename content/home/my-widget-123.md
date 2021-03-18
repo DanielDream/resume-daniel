@@ -1,6 +1,6 @@
 ---
 widget: About
-widget_id: my-widget-123
+widget_id: About
 headless: true
 weight: 10
 active: true
