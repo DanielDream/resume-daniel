@@ -62,8 +62,5 @@ item:
     organization_url: "https://www.tsinghua.edu.cn/"
     title: "清华大学软件学院学生年度人物"
     url: ""
- 
- 
-
 widget_id: zh
 ---
