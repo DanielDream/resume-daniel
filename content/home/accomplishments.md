@@ -38,7 +38,7 @@ item:
     organization_url: "https://cpipc.chinadegrees.cn"
     title: "全国研究生数学建模竞赛三等奖"
     url: ""
-   - certificate_url: ""
+  - certificate_url: ""
     date_end: ""
     date_start: 2019-03-01
     description: ""
