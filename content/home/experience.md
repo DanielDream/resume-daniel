@@ -1,9 +1,5 @@
 ---
 widget: experience
-headless: true
-weight: 40
-title: 经历
-subtitle: null
 date_format: Jan 2006
 experience:
   - title: CEO
@@ -26,4 +22,11 @@ experience:
     date_end: 2016-12-31
     description: Taught electronic engineering and researched semiconductor physics.
 widget_id: zh
+headless: true
+weight: 40
+title: 经历
+subtitle: null
+design:
+  background:
+    image_darken: 0.5
 ---
