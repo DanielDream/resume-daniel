@@ -1,41 +1,30 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: example
+url_pdf: ""
+summary: "项目描述：平台从撮合平台向交易平台转变的过程，以成交率为导向，采用流量增加与高频推荐(穿插、播报、弹窗)、实时抢单人数氛围营造、备注语音与\
+  显性化、详情抢单车长、车型、禁区提醒、收集司机运费反馈并进行加价引导以达到提升一口价货源成交率；匹配负责的列表和详情作为抽佣的入口，收费与权益并举，通过线\
+  路、用户、货源、规则四维度的快车优先权的定制化和配置化、抽佣安心运与全能保障等权益手段、支持送券和用券等营销手段，抽佣支持按人群、时间抽不同金额等创新手段\
+  以支持在成交率稳定的情况下平稳抽佣；通过排序提权、流量倾斜、推荐优化、高效触达等手段支持整车、报价、拍卖、委托等多业务模式探索，解构复杂的业务逻辑，建立快\
+  速适应业务模式的通用化功能。\r
+
+  项目成果：一口价使用率达标（36.5%）、一口价成交率高于非一口价23%、一口价货源履约率较其他货源提高4.5%、全量后预计日GMV新增1.3亿元；保\
+  证金用户快速增长（10w+）、抽佣金额均价12元，16城市，日均40w+、成交率稳定；跑通模式，匹配、详情功能模块业务梳理与通用化。\r\n"
+url_video: ""
+date: 2019-10-10T00:00:00.000Z
+categories:
+  - APP
+external_link: “”
+url_slides: ""
+title: "APP | 平台一口价、商业化抽佣、多业务模式探索    匹配产品负责 "
+tags:
+  - APP
+links: []
+image:
+  caption: ""
+  focal_point: Smart
+  filename: featured.png
+url_code: ""
 ---
+项目描述：平台从撮合平台向交易平台转变的过程，以成交率为导向，采用流量增加与高频推荐(穿插、播报、弹窗)、实时抢单人数氛围营造、备注语音与显性化、详情抢单车长、车型、禁区提醒、收集司机运费反馈并进行加价引导以达到提升一口价货源成交率；匹配负责的列表和详情作为抽佣的入口，收费与权益并举，通过线路、用户、货源、规则四维度的快车优先权的定制化和配置化、抽佣安心运与全能保障等权益手段、支持送券和用券等营销手段，抽佣支持按人群、时间抽不同金额等创新手段以支持在成交率稳定的情况下平稳抽佣；通过排序提权、流量倾斜、推荐优化、高效触达等手段支持整车、报价、拍卖、委托等多业务模式探索，解构复杂的业务逻辑，建立快速适应业务模式的通用化功能。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+项目成果：一口价使用率达标（36.5%）、一口价成交率高于非一口价23%、一口价货源履约率较其他货源提高4.5%、全量后预计日GMV新增1.3亿元；保证金用户快速增长（10w+）、抽佣金额均价12元，16城市，日均40w+、成交率稳定；跑通模式，匹配、详情功能模块业务梳理与通用化。
