@@ -1,5 +1,5 @@
 ---
-slides: example
+slides:
 url_pdf: ""
 summary: |-
   项目描述：为了从上下游寻找突破口，深入调研装卸需求，从0到1 设计装卸工小程序抢单列表和详情，分角色与场景设计抢单模式并引入拉新、留存、促活营销手段。
@@ -9,7 +9,7 @@ url_video: ""
 date: 2019-07-26T00:00:00.000Z
 categories:
   - 小程序
-external_link: “”
+external_link: 
 url_slides: ""
 title: 小程序 |  满满装卸小哥
 tags:
