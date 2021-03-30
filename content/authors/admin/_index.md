@@ -2,8 +2,7 @@
 title: 吉祥
 role: 软件工程硕士
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: 搜索、排序、推荐策略产品
 interests:
   - 策略产品经理
 social:
