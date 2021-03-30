@@ -41,4 +41,4 @@ highlight_name: false
 
 \-具有创造力、创新力以及对策略产品的思考与洞见。工作首个项目官网SEO负责人，假货源仿真探索者，拓展拉新渠道并复用多个项目，装卸工小程序从0到1，带来日均30单100%的成交率。提权、打压、流量倾斜等策略的实验与优化，做到业务需求、平台体验以及指标达成的统一。
 
-{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/resume.pdf" "newtab" >}}简历{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "uploads/resume.pdf" "newtab" >}}简历{{< /staticref >}}.
