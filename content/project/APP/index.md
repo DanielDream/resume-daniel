@@ -8,11 +8,13 @@ summary: >-
   项目成果：拓展拉新渠道——货主司机注册量20+/天、注册通过审核率70%+；功能复用——虚拟货源的搜货功能复用于百度小程序、微信小程序等，节省人力，节省成本。
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
+categories:
+  - 网页
 external_link: https://www.ymm56.com/peihuo/
 url_slides: ""
 title: 网页 | 运满满官网SEO
 tags:
-  - 网页 SEO
+  - 网页
 links:
   - icon: twitter
     icon_pack: fab
