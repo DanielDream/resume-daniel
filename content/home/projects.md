@@ -9,12 +9,16 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: All
+    - name: 全部
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: 策略
+      tag: 策略
+    - name: APP
+      tag: APP
+    - name: 小程序
+      tag: 小程序
+    - name: 网页
+      tag: 网页
 design:
   columns: "2"
   view: 2
