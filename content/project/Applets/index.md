@@ -1,41 +1,25 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: example
+url_pdf: ""
+summary: >-
+  项目描述：作为撮合平台，车货匹配的核心指标是电话率，针对提升被反馈货源占比与反馈实效性，进行冷中热线货源特点与司机找货特征识别、低反馈地区详单分析、电话调研等调研分析手段，采用、新货播报、条件推荐、高电话阶梯隐藏、无反馈货源提权、司机促活等手段全方位提升货源匹配效率和精准度；业务需求置顶冲突，对平台整体体验影响较大，采用策略打压与提权并举的动态化方式进行流量公平化，采用线路和用户维度实验，数据驱动迭代策略，以曝光系数为优先级参数进行策略优化。
+
+  项目成果：提升反馈率——5min反馈率提升5.49%、20min反馈率提升4.87%；促活提升活跃率和成交率——司机登录率提升20%、电话率提升4%、成交率提升1%；满足业务需求，平衡流量，特殊货源适当倾斜，提升用户体验，促进电话与成交。
+url_video: ""
+date: 2019-07-24T00:00:00.000Z
+categories:
+  - 策略
+external_link: '""'
+url_slides: ""
+title: 策略 | 平台反馈率提升与平台流量倾斜策略优化
+tags:
+  - 策略、排序
+links: []
+image:
+  caption: ""
+  focal_point: Smart
+url_code: ""
 ---
+项目描述：作为撮合平台，车货匹配的核心指标是电话率，针对提升被反馈货源占比与反馈实效性，进行冷中热线货源特点与司机找货特征识别、低反馈地区详单分析、电话调研等调研分析手段，采用、新货播报、条件推荐、高电话阶梯隐藏、无反馈货源提权、司机促活等手段全方位提升货源匹配效率和精准度；业务需求置顶冲突，对平台整体体验影响较大，采用策略打压与提权并举的动态化方式进行流量公平化，采用线路和用户维度实验，数据驱动迭代策略，以曝光系数为优先级参数进行策略优化。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+项目成果：提升反馈率——5min反馈率提升5.49%、20min反馈率提升4.87%；促活提升活跃率和成交率——司机登录率提升20%、电话率提升4%、成交率提升1%；满足业务需求，平衡流量，特殊货源适当倾斜，提升用户体验，促进电话与成交。
