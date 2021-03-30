@@ -12,3 +12,4 @@ design:
   font_size_min: 0.7
   font_size_max: 2
 ---
+自律    运动    专注    阅读    分享    影响力    高效沟通    拥抱变化
