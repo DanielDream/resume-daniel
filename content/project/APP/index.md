@@ -12,7 +12,7 @@ categories:
   - APP
 external_link: “”
 url_slides: ""
-title: "APP | 平台一口价、商业化抽佣、多业务模式探索    匹配产品负责 "
+title: APP | 平台一口价、商业化抽佣、多业务模式探索
 tags:
   - APP
 links: []
