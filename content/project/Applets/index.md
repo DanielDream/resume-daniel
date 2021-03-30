@@ -14,7 +14,7 @@ external_link: '""'
 url_slides: ""
 title: 策略 | 平台反馈率提升与平台流量倾斜策略优化
 tags:
-  - 策略、排序
+  - 策略
 links: []
 image:
   caption: ""
