@@ -27,10 +27,10 @@ education:
   courses:
     - course: 软件工程硕士
       institution: 清华大学
-      year: 2016
+      year: 2016-2019
     - course: 地理信息系统本科
       institution: 苏州科技大学
-      year: 2010
+      year: 2010-2014
 email: 414366078@qq.com
 superuser: true
 highlight_name: false
