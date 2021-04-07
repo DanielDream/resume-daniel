@@ -10,7 +10,7 @@ url_video: ""
 date: 2016-04-27T00:00:00.000Z
 categories:
   - 网页
-external_link: https://www.ymm56.com/peihuo/
+external_link: http://www.ymm56.com/peihuo/
 url_slides: ""
 title: 网页 | 运满满官网SEO
 tags:
@@ -19,7 +19,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: 项目页面
-    url: https://www.ymm56.com/peihuo/
+    url: http://www.ymm56.com/peihuo/
 image:
   caption: ""
   focal_point: Smart
