@@ -31,7 +31,7 @@ education:
     - course: 地理信息系统本科
       institution: 苏州科技大学
       year: 2010-2014
-email: 414366078@qq.com
+email: jix16@tsinghua.org.cn
 superuser: true
 highlight_name: false
 ---
