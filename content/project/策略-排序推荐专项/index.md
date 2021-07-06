@@ -3,6 +3,10 @@ title: 策略 | 排序推荐专项
 date: 2021-07-06T06:47:44.299Z
 draft: false
 featured: false
+tags:
+  - 策略
+categories:
+  - 策略
 external_link: "null"
 image:
   filename: featured
