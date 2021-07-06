@@ -7,7 +7,7 @@ tags:
   - 策略
 categories:
   - 策略
-external_link: "null"
+external_link: /project/Strategy/
 image:
   filename: featured
   focal_point: Smart
