@@ -13,7 +13,7 @@ tags:
   - 策略
 categories:
   - 策略
-external_link: jixiang.info/project/策略 | 管控策略产品化
+external_link: https://www.jixiang.info/project/%E7%AD%96%E7%95%A5-%E7%AE%A1%E6%8E%A7%E7%AD%96%E7%95%A5%E4%BA%A7%E5%93%81%E5%8C%96/
 image:
   filename: featured
   focal_point: Smart
