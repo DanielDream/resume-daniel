@@ -13,7 +13,7 @@ tags:
   - 策略
 categories:
   - 策略
-external_link: 策略 | 管控策略产品化
+external_link: 策略-管控策略产品化
 image:
   filename: featured
   focal_point: Smart
