@@ -1,5 +1,5 @@
 ---
-title: sorting
+title: 一种展示信息的排序方法、装置、设备及存储介质
 subtitle: 一种展示信息的排序方法、装置、设备及存储介质
 publication_types:
   - "0"
