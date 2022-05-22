@@ -14,7 +14,7 @@ tags:
   - 策略
 categories:
   - 策略
-external_link: 策略 | 列表推广位
+external_link: 策略-列表推广位
 image:
   filename: featured
   focal_point: Smart
